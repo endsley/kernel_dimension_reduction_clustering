@@ -15,7 +15,7 @@ This code outputs a projection matrix W, as well as the clustering allocation
 
 ### Code Instructions
 You will need to install numpy, pytorch, sklearn. 
-Example of how to run this code is in SDR_examply.py
+Example of how to run this code is in UDR_examply.py
 
 
 
@@ -23,9 +23,10 @@ Example of how to run this code is in SDR_examply.py
 Please cite this work if you use it in your research.  
 @Misc{wu2019,  
 author =   {Chieh Wu},  
-title =    {{InterpretableKernelDimReduction}: Interpretable Kernel Dimension Reduction library},  
-howpublished = {\url{https://github.com/neu-spiral/InterpretableKernelDimReduction}},  
+title =    {{Kernel dimension reduction clustering}: Kernel dimension reduction clustering},  
+howpublished = {\url{https://github.com/endsley/kernel_dimension_reduction_clustering}},  
 year = {2019--2019}  
 }  
+
 
 
